@@ -3,12 +3,16 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: Software Engineer
+  content: Coffee Shop Traveller && Software Engineer
   actions:
   - label: Get in touch
     url: "/contact-me"
     is_scrolly: true
     is_primary: false
+  - label: Download My CV
+    url: cv
+    is_primary: true
+    is_scrolly: false
   title: Sam Herring
   img_path: "/images/BLACK_TIE_PROFILE_SQUARE.JPG"
   component: intro.html
