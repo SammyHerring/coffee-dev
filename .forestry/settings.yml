@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e4ae2b423adde0019c51882/webhook/forestry
 sections:
+- type: directory
+  path: Page
+  label: Directory
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: document
   path: _config.yml
   label: Config
