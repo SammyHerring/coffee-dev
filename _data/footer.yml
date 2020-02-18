@@ -1,6 +1,7 @@
+---
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
+copyright: Sam Herring | Coffee Shop Traveller | Software Engineer
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: GitHub Profile
+  url: https://github.com/SammyHerring
+  new_window: true
