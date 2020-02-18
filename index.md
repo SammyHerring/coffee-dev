@@ -32,16 +32,16 @@ sections:
   subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
     conubia etiam nostra."
   symbol_display:
-  - title: Lorem
+  - title: Python
+    icon: fa-python
+  - title: Java
+    icon: fa-java
+  - title: C/C++
     icon: fa-code
-  - title: Ipsum
-    icon: fa-cog
-  - title: Dolor
-    icon: fa-diamond
-  - title: Feugiat
+  - title: C#
     icon: fa-camera-retro
-  - title: Tempus
-    icon: fa-briefcase
+  - title: GitHub
+    icon: fa-github
   component: features.html
 - type: spotlight
   template: spotlight
